@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>PsCalendarItem</id>
+    <version>1.0.0</version>
+    <authors>Peppe Kerstens</authors>
+    <owners>Peppe Kerstens</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/peppekerstens/PsCalendarItem</projectUrl>
+    <description>Contains functions to assert calendar items defined in sources. Currently only supports json</description>
+    <releaseNotes>Rename from PSCalendar to PSCalenderItem because of conflicting existing PSCalendar PS module within PSGallery. Version reset (main version from 1 to 0); this is not a finished solution.</releaseNotes>
+    <copyright>MIT</copyright>
+    <tags>PowerShell</tags>
+    <dependencies />
+  </metadata>
+</package>
